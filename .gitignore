@@ -1,2 +1,4 @@
 tools/.ipynb_checkpoints/
+.pypirc
+.*
 .ipynb_checkpoints/
