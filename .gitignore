@@ -1,4 +1,6 @@
 tools/.ipynb_checkpoints/
+stone91_tools.egg-info/
+dist/
 .pypirc
 .*
 .ipynb_checkpoints/
