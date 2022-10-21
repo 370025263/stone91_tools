@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 import random
+from typing import *
 from IPython import display
 
 
